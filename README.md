@@ -9,6 +9,8 @@ Python code that can generate a large number of specified character images, whic
 This python code is used to draw chars on background images to generate corresponding synthetic images, while simultaneously creating annotation files in YOLO format.
 It can be widely applied in fields such as character recognition, can automatically generate any number of training images and their corresponding annotation files,  quickly expanding the train dataset.
 
+[配电房数字式仪表读数识别算法开发](https://zhuanlan.zhihu.com/p/18636177926)
+
 
 **If you find it useful, please give me a star. Thank you!**
 
